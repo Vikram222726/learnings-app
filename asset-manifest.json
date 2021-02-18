@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/learnings-app/static/css/main.cbe98c95.chunk.css",
+    "main.js": "/learnings-app/static/js/main.55dfdcbd.chunk.js",
+    "main.js.map": "/learnings-app/static/js/main.55dfdcbd.chunk.js.map",
+    "runtime-main.js": "/learnings-app/static/js/runtime-main.085005fd.js",
+    "runtime-main.js.map": "/learnings-app/static/js/runtime-main.085005fd.js.map",
+    "static/css/2.658248ec.chunk.css": "/learnings-app/static/css/2.658248ec.chunk.css",
+    "static/js/2.c80f04be.chunk.js": "/learnings-app/static/js/2.c80f04be.chunk.js",
+    "static/js/2.c80f04be.chunk.js.map": "/learnings-app/static/js/2.c80f04be.chunk.js.map",
+    "static/js/3.dc926e0f.chunk.js": "/learnings-app/static/js/3.dc926e0f.chunk.js",
+    "static/js/3.dc926e0f.chunk.js.map": "/learnings-app/static/js/3.dc926e0f.chunk.js.map",
+    "index.html": "/learnings-app/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/learnings-app/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.cbe98c95.chunk.css.map": "/learnings-app/static/css/main.cbe98c95.chunk.css.map",
+    "static/js/2.c80f04be.chunk.js.LICENSE.txt": "/learnings-app/static/js/2.c80f04be.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/learnings-app/static/media/img1.dc2fd3e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.085005fd.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.c80f04be.chunk.js",
+    "static/css/main.cbe98c95.chunk.css",
+    "static/js/main.55dfdcbd.chunk.js"
+  ]
+}
